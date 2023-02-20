@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IHtDzenda
-- 👀 I’m interested in JS , html ,css ,react
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on @poketcatch
-- 📫 How to reach me stackoverflow
+- 👋 Hi, I’m **@IHtDzenda**
+- 🖥 I code in C# ,Python ,TypeScript ,JavaScript && HTML 
+- I am a czech cybersecurity student interesd in programing && linux
+- I use arch linux with hyprland 
+- 📫 If you have any questions message me on discord dzenda#4224
 
 <!---
 IHtDzenda/IHtDzenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
